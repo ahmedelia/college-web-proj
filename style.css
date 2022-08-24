@@ -1,6 +1,11 @@
 body{
   background-color: #E8DD89;
   font-family: Montserrat;
+  transition: 0.9s;
+  opacity: 0.4;
+}
+body:hover{
+  opacity: 1;
 }
 .description{
   margin: 10px 10px;
